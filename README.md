@@ -1,4 +1,8 @@
 ## Hi there 👋
+Aerospace Engineering student enthusiastic about coding. My interests include:
+- Simulations 🪐
+- Machine learning 🤖
+- Front-end development 🚅
 
 <!--
 **mategyerek/mategyerek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
